@@ -74,7 +74,7 @@ class FilamentLaravelPulseServiceProvider extends PackageServiceProvider
     protected function getAssets(): array
     {
         return [
-            Css::make('pulse', asset('vendor/pulse/pulse.css')),
+            Css::make('pulse', asset('vendor\laravel\pulse\dist\pulse.css public\vendor\pulse\pulse.css')),
             Js::make('filament-laravel-pulse', __DIR__.'/../resources/dist/js/filament-laravel-pulse.js'),
         ];
     }
