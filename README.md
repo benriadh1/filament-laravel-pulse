@@ -6,6 +6,10 @@
 
 ![filament-laravel-pulse-v3](https://github.com/dotswan/filament-laravel-pulse/assets/20874565/e0d40daa-a06c-4e46-813e-1ebc0f984b17)
 
+# Filament Laravel Pulse (Forked Version)
+
+This fork updates the original plugin to use the official `laravel/pulse` package
+and supports **Filament v5 + Livewire v4**.
 
 ## Introduction
 
